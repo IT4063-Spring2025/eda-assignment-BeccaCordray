@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/adY-NnME)
 # Exploratory Data Analysis - Assignment
 
 ## 🔍 Overview
@@ -50,32 +51,32 @@ You'll also find some tips and links to documentations that will help you comple
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- How to create and customize diagrams representing data
 
 **I struggled with:** (repeat as needed)
-- .
+- In the beginning, I struggled with getting the scatter plots of multiple data sets into just one plot, however I was able to navigate this to successfully combine the data into one graph
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- Nothing so far!
 
 **How long did it take you to complete this assignment? and reflect on that**
-[ ] hours.
+[3] hours. It is a bit long for one assignment but there were a few parts that I had to do research on, but having co-pilot to explain issues definitely helps a lot.
 
 **How often did you have to check the solution to the problem? How do you feel about that?**
-
+I didnt see any solutions for this assignment.
 
 **If I were to do this assignment again, I would:** (repeat as needed)
-- .
+- I would do everything the same.
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [20] out of 20.
 
 --------------------
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- I mainly used the resources included in the assignment as well as co-pilot to help explain the errors I was getting without having it directly fix it for me.
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- Nobody
 
 ---
 ## Copyrights and License
